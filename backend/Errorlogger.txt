@@ -1,0 +1,146 @@
+function timeStamp() { [native code] } Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (/Users/arnavsagar/Downloads/JN-main/backend/node_modules/jsonwebtoken/sign.js:111:20)
+    at Object.generateToken (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/JwtController.js:9:16)
+    at Auth.jobSeekerRegister (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:46:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:16:21
+function timeStamp() { [native code] } Error: Email already exists
+    at Auth.jobSeekerRegister (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:34:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:16:21
+function timeStamp() { [native code] } Error: Email already exists
+    at Auth.jobSeekerRegister (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:34:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:18:21
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: Invalid Email or Password
+    at Auth.jobSeekerLogin (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:128:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Auth.login (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:88:22)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:30:33
+function timeStamp() { [native code] } Error: Invalid Email or Password
+    at Auth.jobSeekerLogin (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:128:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Auth.login (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:88:22)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:30:33
+function timeStamp() { [native code] } Error: Invalid Email or Password
+    at Auth.jobSeekerLogin (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:128:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Auth.login (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:88:22)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:30:33
+function timeStamp() { [native code] } Error: Invalid Email or Password
+    at Auth.jobSeekerLogin (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:128:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Auth.login (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/AuthController.js:88:22)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:30:33
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
+function timeStamp() { [native code] } Error: User not found
+    at Job.viewJobs (/Users/arnavsagar/Downloads/JN-main/backend/Controllers/ViewJobController.js:12:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Users/arnavsagar/Downloads/JN-main/backend/Routes/Users.js:84:26
